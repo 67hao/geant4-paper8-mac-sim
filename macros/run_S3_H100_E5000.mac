@@ -1,0 +1,7 @@
+/control/verbose 1
+/DetectorConstruction/Sample_Material S3
+/DetectorConstruction/Collimator2_Height 100.000000000
+/DetectorConstruction/update
+/gun/energy 5000.000000 keV
+/analysis/setFileName hist_S3_H100_E5000
+/run/beamOn 1000000

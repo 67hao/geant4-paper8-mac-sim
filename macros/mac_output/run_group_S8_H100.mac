@@ -1,0 +1,39 @@
+/control/verbose 2
+
+# Set hinh hoc 1 lan duy nhat cho CA nhom (sample=S8, height=100.000000000 mm)
+/DetectorConstruction/Sample_Material S8
+/DetectorConstruction/Collimator2_Height 100.000000000
+/DetectorConstruction/update
+
+/control/execute run_S8_H100_E15.mac
+/control/execute run_S8_H100_E20.mac
+/control/execute run_S8_H100_E30.mac
+/control/execute run_S8_H100_E40.mac
+/control/execute run_S8_H100_E50.mac
+/control/execute run_S8_H100_E60.mac
+/control/execute run_S8_H100_E80.mac
+/control/execute run_S8_H100_E100.mac
+/control/execute run_S8_H100_E150.mac
+/control/execute run_S8_H100_E200.mac
+/control/execute run_S8_H100_E300.mac
+/control/execute run_S8_H100_E400.mac
+/control/execute run_S8_H100_E500.mac
+/control/execute run_S8_H100_E600.mac
+/control/execute run_S8_H100_E800.mac
+/control/execute run_S8_H100_E1000.mac
+/control/execute run_S8_H100_E1250.mac
+/control/execute run_S8_H100_E1500.mac
+/control/execute run_S8_H100_E2000.mac
+/control/execute run_S8_H100_E3000.mac
+/control/execute run_S8_H100_E4000.mac
+/control/execute run_S8_H100_E5000.mac
+/control/execute run_S8_H100_E6000.mac
+/control/execute run_S8_H100_E7000.mac
+/control/execute run_S8_H100_E8000.mac
+/control/execute run_S8_H100_E9000.mac
+/control/execute run_S8_H100_E10000.mac
+/control/execute run_S8_H100_E11000.mac
+/control/execute run_S8_H100_E12000.mac
+/control/execute run_S8_H100_E13000.mac
+/control/execute run_S8_H100_E14000.mac
+/control/execute run_S8_H100_E15000.mac

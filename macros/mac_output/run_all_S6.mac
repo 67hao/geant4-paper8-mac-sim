@@ -1,0 +1,2 @@
+/control/verbose 2
+/control/execute run_group_S6_H100.mac

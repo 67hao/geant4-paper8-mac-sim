@@ -1,0 +1,2880 @@
+{
+  "haoidlemystic1": {
+    "1": [
+      {
+        "job_name": "S0_H100_E15keV",
+        "sample": "S0",
+        "energy_kev": 15,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E15.mac",
+        "csv_filename": "S0_H100_E15keV.csv",
+        "root_filename": "hist_S0_H100_E15.root"
+      },
+      {
+        "job_name": "S4_H100_E30keV",
+        "sample": "S4",
+        "energy_kev": 30,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E30.mac",
+        "csv_filename": "S4_H100_E30keV.csv",
+        "root_filename": "hist_S4_H100_E30.root"
+      },
+      {
+        "job_name": "S8_H100_E50keV",
+        "sample": "S8",
+        "energy_kev": 50,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E50.mac",
+        "csv_filename": "S8_H100_E50keV.csv",
+        "root_filename": "hist_S8_H100_E50.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E600keV",
+        "sample": "S0",
+        "energy_kev": 600,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E600.mac",
+        "csv_filename": "S0_H100_E600keV.csv",
+        "root_filename": "hist_S0_H100_E600.root"
+      },
+      {
+        "job_name": "S4_H100_E1000keV",
+        "sample": "S4",
+        "energy_kev": 1000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E1000.mac",
+        "csv_filename": "S4_H100_E1000keV.csv",
+        "root_filename": "hist_S4_H100_E1000.root"
+      },
+      {
+        "job_name": "S8_H100_E1500keV",
+        "sample": "S8",
+        "energy_kev": 1500,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E1500.mac",
+        "csv_filename": "S8_H100_E1500keV.csv",
+        "root_filename": "hist_S8_H100_E1500.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_H100_E10000keV",
+        "sample": "S0",
+        "energy_kev": 10000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E10000.mac",
+        "csv_filename": "S0_H100_E10000keV.csv",
+        "root_filename": "hist_S0_H100_E10000.root"
+      },
+      {
+        "job_name": "S4_H100_E12000keV",
+        "sample": "S4",
+        "energy_kev": 12000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E12000.mac",
+        "csv_filename": "S4_H100_E12000keV.csv",
+        "root_filename": "hist_S4_H100_E12000.root"
+      },
+      {
+        "job_name": "S8_H100_E14000keV",
+        "sample": "S8",
+        "energy_kev": 14000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E14000.mac",
+        "csv_filename": "S8_H100_E14000keV.csv",
+        "root_filename": "hist_S8_H100_E14000.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E100keV",
+        "sample": "S1",
+        "energy_kev": 100,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E100.mac",
+        "csv_filename": "S1_H100_E100keV.csv",
+        "root_filename": "hist_S1_H100_E100.root"
+      },
+      {
+        "job_name": "S5_H100_E200keV",
+        "sample": "S5",
+        "energy_kev": 200,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E200.mac",
+        "csv_filename": "S5_H100_E200keV.csv",
+        "root_filename": "hist_S5_H100_E200.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E4000keV",
+        "sample": "S1",
+        "energy_kev": 4000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E4000.mac",
+        "csv_filename": "S1_H100_E4000keV.csv",
+        "root_filename": "hist_S1_H100_E4000.root"
+      },
+      {
+        "job_name": "S5_H100_E6000keV",
+        "sample": "S5",
+        "energy_kev": 6000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E6000.mac",
+        "csv_filename": "S5_H100_E6000keV.csv",
+        "root_filename": "hist_S5_H100_E6000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E20keV",
+        "sample": "S2",
+        "energy_kev": 20,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E20.mac",
+        "csv_filename": "S2_H100_E20keV.csv",
+        "root_filename": "hist_S2_H100_E20.root"
+      },
+      {
+        "job_name": "S6_H100_E40keV",
+        "sample": "S6",
+        "energy_kev": 40,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E40.mac",
+        "csv_filename": "S6_H100_E40keV.csv",
+        "root_filename": "hist_S6_H100_E40.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E800keV",
+        "sample": "S2",
+        "energy_kev": 800,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E800.mac",
+        "csv_filename": "S2_H100_E800keV.csv",
+        "root_filename": "hist_S2_H100_E800.root"
+      },
+      {
+        "job_name": "S6_H100_E1250keV",
+        "sample": "S6",
+        "energy_kev": 1250,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E1250.mac",
+        "csv_filename": "S6_H100_E1250keV.csv",
+        "root_filename": "hist_S6_H100_E1250.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_H100_E11000keV",
+        "sample": "S2",
+        "energy_kev": 11000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E11000.mac",
+        "csv_filename": "S2_H100_E11000keV.csv",
+        "root_filename": "hist_S2_H100_E11000.root"
+      },
+      {
+        "job_name": "S6_H100_E13000keV",
+        "sample": "S6",
+        "energy_kev": 13000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E13000.mac",
+        "csv_filename": "S6_H100_E13000keV.csv",
+        "root_filename": "hist_S6_H100_E13000.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E150keV",
+        "sample": "S3",
+        "energy_kev": 150,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E150.mac",
+        "csv_filename": "S3_H100_E150keV.csv",
+        "root_filename": "hist_S3_H100_E150.root"
+      },
+      {
+        "job_name": "S7_H100_E300keV",
+        "sample": "S7",
+        "energy_kev": 300,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E300.mac",
+        "csv_filename": "S7_H100_E300keV.csv",
+        "root_filename": "hist_S7_H100_E300.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E5000keV",
+        "sample": "S3",
+        "energy_kev": 5000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E5000.mac",
+        "csv_filename": "S3_H100_E5000keV.csv",
+        "root_filename": "hist_S3_H100_E5000.root"
+      },
+      {
+        "job_name": "S7_H100_E7000keV",
+        "sample": "S7",
+        "energy_kev": 7000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E7000.mac",
+        "csv_filename": "S7_H100_E7000keV.csv",
+        "root_filename": "hist_S7_H100_E7000.root"
+      }
+    ]
+  },
+  "vuicho": {
+    "1": [
+      {
+        "job_name": "S0_H100_E20keV",
+        "sample": "S0",
+        "energy_kev": 20,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E20.mac",
+        "csv_filename": "S0_H100_E20keV.csv",
+        "root_filename": "hist_S0_H100_E20.root"
+      },
+      {
+        "job_name": "S4_H100_E40keV",
+        "sample": "S4",
+        "energy_kev": 40,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E40.mac",
+        "csv_filename": "S4_H100_E40keV.csv",
+        "root_filename": "hist_S4_H100_E40.root"
+      },
+      {
+        "job_name": "S8_H100_E60keV",
+        "sample": "S8",
+        "energy_kev": 60,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E60.mac",
+        "csv_filename": "S8_H100_E60keV.csv",
+        "root_filename": "hist_S8_H100_E60.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E800keV",
+        "sample": "S0",
+        "energy_kev": 800,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E800.mac",
+        "csv_filename": "S0_H100_E800keV.csv",
+        "root_filename": "hist_S0_H100_E800.root"
+      },
+      {
+        "job_name": "S4_H100_E1250keV",
+        "sample": "S4",
+        "energy_kev": 1250,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E1250.mac",
+        "csv_filename": "S4_H100_E1250keV.csv",
+        "root_filename": "hist_S4_H100_E1250.root"
+      },
+      {
+        "job_name": "S8_H100_E2000keV",
+        "sample": "S8",
+        "energy_kev": 2000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E2000.mac",
+        "csv_filename": "S8_H100_E2000keV.csv",
+        "root_filename": "hist_S8_H100_E2000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_H100_E11000keV",
+        "sample": "S0",
+        "energy_kev": 11000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E11000.mac",
+        "csv_filename": "S0_H100_E11000keV.csv",
+        "root_filename": "hist_S0_H100_E11000.root"
+      },
+      {
+        "job_name": "S4_H100_E13000keV",
+        "sample": "S4",
+        "energy_kev": 13000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E13000.mac",
+        "csv_filename": "S4_H100_E13000keV.csv",
+        "root_filename": "hist_S4_H100_E13000.root"
+      },
+      {
+        "job_name": "S8_H100_E15000keV",
+        "sample": "S8",
+        "energy_kev": 15000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E15000.mac",
+        "csv_filename": "S8_H100_E15000keV.csv",
+        "root_filename": "hist_S8_H100_E15000.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E150keV",
+        "sample": "S1",
+        "energy_kev": 150,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E150.mac",
+        "csv_filename": "S1_H100_E150keV.csv",
+        "root_filename": "hist_S1_H100_E150.root"
+      },
+      {
+        "job_name": "S5_H100_E300keV",
+        "sample": "S5",
+        "energy_kev": 300,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E300.mac",
+        "csv_filename": "S5_H100_E300keV.csv",
+        "root_filename": "hist_S5_H100_E300.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E5000keV",
+        "sample": "S1",
+        "energy_kev": 5000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E5000.mac",
+        "csv_filename": "S1_H100_E5000keV.csv",
+        "root_filename": "hist_S1_H100_E5000.root"
+      },
+      {
+        "job_name": "S5_H100_E7000keV",
+        "sample": "S5",
+        "energy_kev": 7000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E7000.mac",
+        "csv_filename": "S5_H100_E7000keV.csv",
+        "root_filename": "hist_S5_H100_E7000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E30keV",
+        "sample": "S2",
+        "energy_kev": 30,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E30.mac",
+        "csv_filename": "S2_H100_E30keV.csv",
+        "root_filename": "hist_S2_H100_E30.root"
+      },
+      {
+        "job_name": "S6_H100_E50keV",
+        "sample": "S6",
+        "energy_kev": 50,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E50.mac",
+        "csv_filename": "S6_H100_E50keV.csv",
+        "root_filename": "hist_S6_H100_E50.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E1000keV",
+        "sample": "S2",
+        "energy_kev": 1000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E1000.mac",
+        "csv_filename": "S2_H100_E1000keV.csv",
+        "root_filename": "hist_S2_H100_E1000.root"
+      },
+      {
+        "job_name": "S6_H100_E1500keV",
+        "sample": "S6",
+        "energy_kev": 1500,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E1500.mac",
+        "csv_filename": "S6_H100_E1500keV.csv",
+        "root_filename": "hist_S6_H100_E1500.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_H100_E12000keV",
+        "sample": "S2",
+        "energy_kev": 12000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E12000.mac",
+        "csv_filename": "S2_H100_E12000keV.csv",
+        "root_filename": "hist_S2_H100_E12000.root"
+      },
+      {
+        "job_name": "S6_H100_E14000keV",
+        "sample": "S6",
+        "energy_kev": 14000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E14000.mac",
+        "csv_filename": "S6_H100_E14000keV.csv",
+        "root_filename": "hist_S6_H100_E14000.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E200keV",
+        "sample": "S3",
+        "energy_kev": 200,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E200.mac",
+        "csv_filename": "S3_H100_E200keV.csv",
+        "root_filename": "hist_S3_H100_E200.root"
+      },
+      {
+        "job_name": "S7_H100_E400keV",
+        "sample": "S7",
+        "energy_kev": 400,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E400.mac",
+        "csv_filename": "S7_H100_E400keV.csv",
+        "root_filename": "hist_S7_H100_E400.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E6000keV",
+        "sample": "S3",
+        "energy_kev": 6000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E6000.mac",
+        "csv_filename": "S3_H100_E6000keV.csv",
+        "root_filename": "hist_S3_H100_E6000.root"
+      },
+      {
+        "job_name": "S7_H100_E8000keV",
+        "sample": "S7",
+        "energy_kev": 8000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E8000.mac",
+        "csv_filename": "S7_H100_E8000keV.csv",
+        "root_filename": "hist_S7_H100_E8000.root"
+      }
+    ]
+  },
+  "haoidle4zk": {
+    "1": [
+      {
+        "job_name": "S0_H100_E30keV",
+        "sample": "S0",
+        "energy_kev": 30,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E30.mac",
+        "csv_filename": "S0_H100_E30keV.csv",
+        "root_filename": "hist_S0_H100_E30.root"
+      },
+      {
+        "job_name": "S4_H100_E50keV",
+        "sample": "S4",
+        "energy_kev": 50,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E50.mac",
+        "csv_filename": "S4_H100_E50keV.csv",
+        "root_filename": "hist_S4_H100_E50.root"
+      },
+      {
+        "job_name": "S8_H100_E80keV",
+        "sample": "S8",
+        "energy_kev": 80,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E80.mac",
+        "csv_filename": "S8_H100_E80keV.csv",
+        "root_filename": "hist_S8_H100_E80.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E1000keV",
+        "sample": "S0",
+        "energy_kev": 1000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E1000.mac",
+        "csv_filename": "S0_H100_E1000keV.csv",
+        "root_filename": "hist_S0_H100_E1000.root"
+      },
+      {
+        "job_name": "S4_H100_E1500keV",
+        "sample": "S4",
+        "energy_kev": 1500,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E1500.mac",
+        "csv_filename": "S4_H100_E1500keV.csv",
+        "root_filename": "hist_S4_H100_E1500.root"
+      },
+      {
+        "job_name": "S8_H100_E3000keV",
+        "sample": "S8",
+        "energy_kev": 3000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E3000.mac",
+        "csv_filename": "S8_H100_E3000keV.csv",
+        "root_filename": "hist_S8_H100_E3000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_H100_E12000keV",
+        "sample": "S0",
+        "energy_kev": 12000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E12000.mac",
+        "csv_filename": "S0_H100_E12000keV.csv",
+        "root_filename": "hist_S0_H100_E12000.root"
+      },
+      {
+        "job_name": "S4_H100_E14000keV",
+        "sample": "S4",
+        "energy_kev": 14000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E14000.mac",
+        "csv_filename": "S4_H100_E14000keV.csv",
+        "root_filename": "hist_S4_H100_E14000.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E200keV",
+        "sample": "S1",
+        "energy_kev": 200,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E200.mac",
+        "csv_filename": "S1_H100_E200keV.csv",
+        "root_filename": "hist_S1_H100_E200.root"
+      },
+      {
+        "job_name": "S5_H100_E400keV",
+        "sample": "S5",
+        "energy_kev": 400,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E400.mac",
+        "csv_filename": "S5_H100_E400keV.csv",
+        "root_filename": "hist_S5_H100_E400.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E6000keV",
+        "sample": "S1",
+        "energy_kev": 6000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E6000.mac",
+        "csv_filename": "S1_H100_E6000keV.csv",
+        "root_filename": "hist_S1_H100_E6000.root"
+      },
+      {
+        "job_name": "S5_H100_E8000keV",
+        "sample": "S5",
+        "energy_kev": 8000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E8000.mac",
+        "csv_filename": "S5_H100_E8000keV.csv",
+        "root_filename": "hist_S5_H100_E8000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E40keV",
+        "sample": "S2",
+        "energy_kev": 40,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E40.mac",
+        "csv_filename": "S2_H100_E40keV.csv",
+        "root_filename": "hist_S2_H100_E40.root"
+      },
+      {
+        "job_name": "S6_H100_E60keV",
+        "sample": "S6",
+        "energy_kev": 60,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E60.mac",
+        "csv_filename": "S6_H100_E60keV.csv",
+        "root_filename": "hist_S6_H100_E60.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E1250keV",
+        "sample": "S2",
+        "energy_kev": 1250,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E1250.mac",
+        "csv_filename": "S2_H100_E1250keV.csv",
+        "root_filename": "hist_S2_H100_E1250.root"
+      },
+      {
+        "job_name": "S6_H100_E2000keV",
+        "sample": "S6",
+        "energy_kev": 2000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E2000.mac",
+        "csv_filename": "S6_H100_E2000keV.csv",
+        "root_filename": "hist_S6_H100_E2000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_H100_E13000keV",
+        "sample": "S2",
+        "energy_kev": 13000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E13000.mac",
+        "csv_filename": "S2_H100_E13000keV.csv",
+        "root_filename": "hist_S2_H100_E13000.root"
+      },
+      {
+        "job_name": "S6_H100_E15000keV",
+        "sample": "S6",
+        "energy_kev": 15000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E15000.mac",
+        "csv_filename": "S6_H100_E15000keV.csv",
+        "root_filename": "hist_S6_H100_E15000.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E300keV",
+        "sample": "S3",
+        "energy_kev": 300,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E300.mac",
+        "csv_filename": "S3_H100_E300keV.csv",
+        "root_filename": "hist_S3_H100_E300.root"
+      },
+      {
+        "job_name": "S7_H100_E500keV",
+        "sample": "S7",
+        "energy_kev": 500,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E500.mac",
+        "csv_filename": "S7_H100_E500keV.csv",
+        "root_filename": "hist_S7_H100_E500.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E7000keV",
+        "sample": "S3",
+        "energy_kev": 7000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E7000.mac",
+        "csv_filename": "S3_H100_E7000keV.csv",
+        "root_filename": "hist_S3_H100_E7000.root"
+      },
+      {
+        "job_name": "S7_H100_E9000keV",
+        "sample": "S7",
+        "energy_kev": 9000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E9000.mac",
+        "csv_filename": "S7_H100_E9000keV.csv",
+        "root_filename": "hist_S7_H100_E9000.root"
+      }
+    ]
+  },
+  "67hao": {
+    "1": [
+      {
+        "job_name": "S0_H100_E40keV",
+        "sample": "S0",
+        "energy_kev": 40,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E40.mac",
+        "csv_filename": "S0_H100_E40keV.csv",
+        "root_filename": "hist_S0_H100_E40.root"
+      },
+      {
+        "job_name": "S4_H100_E60keV",
+        "sample": "S4",
+        "energy_kev": 60,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E60.mac",
+        "csv_filename": "S4_H100_E60keV.csv",
+        "root_filename": "hist_S4_H100_E60.root"
+      },
+      {
+        "job_name": "S8_H100_E100keV",
+        "sample": "S8",
+        "energy_kev": 100,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E100.mac",
+        "csv_filename": "S8_H100_E100keV.csv",
+        "root_filename": "hist_S8_H100_E100.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E1250keV",
+        "sample": "S0",
+        "energy_kev": 1250,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E1250.mac",
+        "csv_filename": "S0_H100_E1250keV.csv",
+        "root_filename": "hist_S0_H100_E1250.root"
+      },
+      {
+        "job_name": "S4_H100_E2000keV",
+        "sample": "S4",
+        "energy_kev": 2000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E2000.mac",
+        "csv_filename": "S4_H100_E2000keV.csv",
+        "root_filename": "hist_S4_H100_E2000.root"
+      },
+      {
+        "job_name": "S8_H100_E4000keV",
+        "sample": "S8",
+        "energy_kev": 4000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E4000.mac",
+        "csv_filename": "S8_H100_E4000keV.csv",
+        "root_filename": "hist_S8_H100_E4000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_H100_E13000keV",
+        "sample": "S0",
+        "energy_kev": 13000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E13000.mac",
+        "csv_filename": "S0_H100_E13000keV.csv",
+        "root_filename": "hist_S0_H100_E13000.root"
+      },
+      {
+        "job_name": "S4_H100_E15000keV",
+        "sample": "S4",
+        "energy_kev": 15000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E15000.mac",
+        "csv_filename": "S4_H100_E15000keV.csv",
+        "root_filename": "hist_S4_H100_E15000.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E300keV",
+        "sample": "S1",
+        "energy_kev": 300,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E300.mac",
+        "csv_filename": "S1_H100_E300keV.csv",
+        "root_filename": "hist_S1_H100_E300.root"
+      },
+      {
+        "job_name": "S5_H100_E500keV",
+        "sample": "S5",
+        "energy_kev": 500,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E500.mac",
+        "csv_filename": "S5_H100_E500keV.csv",
+        "root_filename": "hist_S5_H100_E500.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E7000keV",
+        "sample": "S1",
+        "energy_kev": 7000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E7000.mac",
+        "csv_filename": "S1_H100_E7000keV.csv",
+        "root_filename": "hist_S1_H100_E7000.root"
+      },
+      {
+        "job_name": "S5_H100_E9000keV",
+        "sample": "S5",
+        "energy_kev": 9000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E9000.mac",
+        "csv_filename": "S5_H100_E9000keV.csv",
+        "root_filename": "hist_S5_H100_E9000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E50keV",
+        "sample": "S2",
+        "energy_kev": 50,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E50.mac",
+        "csv_filename": "S2_H100_E50keV.csv",
+        "root_filename": "hist_S2_H100_E50.root"
+      },
+      {
+        "job_name": "S6_H100_E80keV",
+        "sample": "S6",
+        "energy_kev": 80,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E80.mac",
+        "csv_filename": "S6_H100_E80keV.csv",
+        "root_filename": "hist_S6_H100_E80.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E1500keV",
+        "sample": "S2",
+        "energy_kev": 1500,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E1500.mac",
+        "csv_filename": "S2_H100_E1500keV.csv",
+        "root_filename": "hist_S2_H100_E1500.root"
+      },
+      {
+        "job_name": "S6_H100_E3000keV",
+        "sample": "S6",
+        "energy_kev": 3000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E3000.mac",
+        "csv_filename": "S6_H100_E3000keV.csv",
+        "root_filename": "hist_S6_H100_E3000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_H100_E14000keV",
+        "sample": "S2",
+        "energy_kev": 14000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E14000.mac",
+        "csv_filename": "S2_H100_E14000keV.csv",
+        "root_filename": "hist_S2_H100_E14000.root"
+      },
+      {
+        "job_name": "S7_H100_E15keV",
+        "sample": "S7",
+        "energy_kev": 15,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E15.mac",
+        "csv_filename": "S7_H100_E15keV.csv",
+        "root_filename": "hist_S7_H100_E15.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E400keV",
+        "sample": "S3",
+        "energy_kev": 400,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E400.mac",
+        "csv_filename": "S3_H100_E400keV.csv",
+        "root_filename": "hist_S3_H100_E400.root"
+      },
+      {
+        "job_name": "S7_H100_E600keV",
+        "sample": "S7",
+        "energy_kev": 600,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E600.mac",
+        "csv_filename": "S7_H100_E600keV.csv",
+        "root_filename": "hist_S7_H100_E600.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E8000keV",
+        "sample": "S3",
+        "energy_kev": 8000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E8000.mac",
+        "csv_filename": "S3_H100_E8000keV.csv",
+        "root_filename": "hist_S3_H100_E8000.root"
+      },
+      {
+        "job_name": "S7_H100_E10000keV",
+        "sample": "S7",
+        "energy_kev": 10000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E10000.mac",
+        "csv_filename": "S7_H100_E10000keV.csv",
+        "root_filename": "hist_S7_H100_E10000.root"
+      }
+    ]
+  },
+  "idlemystich": {
+    "1": [
+      {
+        "job_name": "S0_H100_E50keV",
+        "sample": "S0",
+        "energy_kev": 50,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E50.mac",
+        "csv_filename": "S0_H100_E50keV.csv",
+        "root_filename": "hist_S0_H100_E50.root"
+      },
+      {
+        "job_name": "S4_H100_E80keV",
+        "sample": "S4",
+        "energy_kev": 80,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E80.mac",
+        "csv_filename": "S4_H100_E80keV.csv",
+        "root_filename": "hist_S4_H100_E80.root"
+      },
+      {
+        "job_name": "S8_H100_E150keV",
+        "sample": "S8",
+        "energy_kev": 150,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E150.mac",
+        "csv_filename": "S8_H100_E150keV.csv",
+        "root_filename": "hist_S8_H100_E150.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E1500keV",
+        "sample": "S0",
+        "energy_kev": 1500,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E1500.mac",
+        "csv_filename": "S0_H100_E1500keV.csv",
+        "root_filename": "hist_S0_H100_E1500.root"
+      },
+      {
+        "job_name": "S4_H100_E3000keV",
+        "sample": "S4",
+        "energy_kev": 3000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E3000.mac",
+        "csv_filename": "S4_H100_E3000keV.csv",
+        "root_filename": "hist_S4_H100_E3000.root"
+      },
+      {
+        "job_name": "S8_H100_E5000keV",
+        "sample": "S8",
+        "energy_kev": 5000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E5000.mac",
+        "csv_filename": "S8_H100_E5000keV.csv",
+        "root_filename": "hist_S8_H100_E5000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_H100_E14000keV",
+        "sample": "S0",
+        "energy_kev": 14000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E14000.mac",
+        "csv_filename": "S0_H100_E14000keV.csv",
+        "root_filename": "hist_S0_H100_E14000.root"
+      },
+      {
+        "job_name": "S5_H100_E15keV",
+        "sample": "S5",
+        "energy_kev": 15,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E15.mac",
+        "csv_filename": "S5_H100_E15keV.csv",
+        "root_filename": "hist_S5_H100_E15.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E400keV",
+        "sample": "S1",
+        "energy_kev": 400,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E400.mac",
+        "csv_filename": "S1_H100_E400keV.csv",
+        "root_filename": "hist_S1_H100_E400.root"
+      },
+      {
+        "job_name": "S5_H100_E600keV",
+        "sample": "S5",
+        "energy_kev": 600,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E600.mac",
+        "csv_filename": "S5_H100_E600keV.csv",
+        "root_filename": "hist_S5_H100_E600.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E8000keV",
+        "sample": "S1",
+        "energy_kev": 8000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E8000.mac",
+        "csv_filename": "S1_H100_E8000keV.csv",
+        "root_filename": "hist_S1_H100_E8000.root"
+      },
+      {
+        "job_name": "S5_H100_E10000keV",
+        "sample": "S5",
+        "energy_kev": 10000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E10000.mac",
+        "csv_filename": "S5_H100_E10000keV.csv",
+        "root_filename": "hist_S5_H100_E10000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E60keV",
+        "sample": "S2",
+        "energy_kev": 60,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E60.mac",
+        "csv_filename": "S2_H100_E60keV.csv",
+        "root_filename": "hist_S2_H100_E60.root"
+      },
+      {
+        "job_name": "S6_H100_E100keV",
+        "sample": "S6",
+        "energy_kev": 100,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E100.mac",
+        "csv_filename": "S6_H100_E100keV.csv",
+        "root_filename": "hist_S6_H100_E100.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E2000keV",
+        "sample": "S2",
+        "energy_kev": 2000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E2000.mac",
+        "csv_filename": "S2_H100_E2000keV.csv",
+        "root_filename": "hist_S2_H100_E2000.root"
+      },
+      {
+        "job_name": "S6_H100_E4000keV",
+        "sample": "S6",
+        "energy_kev": 4000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E4000.mac",
+        "csv_filename": "S6_H100_E4000keV.csv",
+        "root_filename": "hist_S6_H100_E4000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_H100_E15000keV",
+        "sample": "S2",
+        "energy_kev": 15000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E15000.mac",
+        "csv_filename": "S2_H100_E15000keV.csv",
+        "root_filename": "hist_S2_H100_E15000.root"
+      },
+      {
+        "job_name": "S7_H100_E20keV",
+        "sample": "S7",
+        "energy_kev": 20,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E20.mac",
+        "csv_filename": "S7_H100_E20keV.csv",
+        "root_filename": "hist_S7_H100_E20.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E500keV",
+        "sample": "S3",
+        "energy_kev": 500,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E500.mac",
+        "csv_filename": "S3_H100_E500keV.csv",
+        "root_filename": "hist_S3_H100_E500.root"
+      },
+      {
+        "job_name": "S7_H100_E800keV",
+        "sample": "S7",
+        "energy_kev": 800,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E800.mac",
+        "csv_filename": "S7_H100_E800keV.csv",
+        "root_filename": "hist_S7_H100_E800.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E9000keV",
+        "sample": "S3",
+        "energy_kev": 9000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E9000.mac",
+        "csv_filename": "S3_H100_E9000keV.csv",
+        "root_filename": "hist_S3_H100_E9000.root"
+      },
+      {
+        "job_name": "S7_H100_E11000keV",
+        "sample": "S7",
+        "energy_kev": 11000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E11000.mac",
+        "csv_filename": "S7_H100_E11000keV.csv",
+        "root_filename": "hist_S7_H100_E11000.root"
+      }
+    ]
+  },
+  "CarwynDuc": {
+    "1": [
+      {
+        "job_name": "S0_H100_E60keV",
+        "sample": "S0",
+        "energy_kev": 60,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E60.mac",
+        "csv_filename": "S0_H100_E60keV.csv",
+        "root_filename": "hist_S0_H100_E60.root"
+      },
+      {
+        "job_name": "S4_H100_E100keV",
+        "sample": "S4",
+        "energy_kev": 100,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E100.mac",
+        "csv_filename": "S4_H100_E100keV.csv",
+        "root_filename": "hist_S4_H100_E100.root"
+      },
+      {
+        "job_name": "S8_H100_E200keV",
+        "sample": "S8",
+        "energy_kev": 200,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E200.mac",
+        "csv_filename": "S8_H100_E200keV.csv",
+        "root_filename": "hist_S8_H100_E200.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E2000keV",
+        "sample": "S0",
+        "energy_kev": 2000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E2000.mac",
+        "csv_filename": "S0_H100_E2000keV.csv",
+        "root_filename": "hist_S0_H100_E2000.root"
+      },
+      {
+        "job_name": "S4_H100_E4000keV",
+        "sample": "S4",
+        "energy_kev": 4000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E4000.mac",
+        "csv_filename": "S4_H100_E4000keV.csv",
+        "root_filename": "hist_S4_H100_E4000.root"
+      },
+      {
+        "job_name": "S8_H100_E6000keV",
+        "sample": "S8",
+        "energy_kev": 6000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E6000.mac",
+        "csv_filename": "S8_H100_E6000keV.csv",
+        "root_filename": "hist_S8_H100_E6000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_H100_E15000keV",
+        "sample": "S0",
+        "energy_kev": 15000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E15000.mac",
+        "csv_filename": "S0_H100_E15000keV.csv",
+        "root_filename": "hist_S0_H100_E15000.root"
+      },
+      {
+        "job_name": "S5_H100_E20keV",
+        "sample": "S5",
+        "energy_kev": 20,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E20.mac",
+        "csv_filename": "S5_H100_E20keV.csv",
+        "root_filename": "hist_S5_H100_E20.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E500keV",
+        "sample": "S1",
+        "energy_kev": 500,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E500.mac",
+        "csv_filename": "S1_H100_E500keV.csv",
+        "root_filename": "hist_S1_H100_E500.root"
+      },
+      {
+        "job_name": "S5_H100_E800keV",
+        "sample": "S5",
+        "energy_kev": 800,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E800.mac",
+        "csv_filename": "S5_H100_E800keV.csv",
+        "root_filename": "hist_S5_H100_E800.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E9000keV",
+        "sample": "S1",
+        "energy_kev": 9000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E9000.mac",
+        "csv_filename": "S1_H100_E9000keV.csv",
+        "root_filename": "hist_S1_H100_E9000.root"
+      },
+      {
+        "job_name": "S5_H100_E11000keV",
+        "sample": "S5",
+        "energy_kev": 11000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E11000.mac",
+        "csv_filename": "S5_H100_E11000keV.csv",
+        "root_filename": "hist_S5_H100_E11000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E80keV",
+        "sample": "S2",
+        "energy_kev": 80,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E80.mac",
+        "csv_filename": "S2_H100_E80keV.csv",
+        "root_filename": "hist_S2_H100_E80.root"
+      },
+      {
+        "job_name": "S6_H100_E150keV",
+        "sample": "S6",
+        "energy_kev": 150,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E150.mac",
+        "csv_filename": "S6_H100_E150keV.csv",
+        "root_filename": "hist_S6_H100_E150.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E3000keV",
+        "sample": "S2",
+        "energy_kev": 3000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E3000.mac",
+        "csv_filename": "S2_H100_E3000keV.csv",
+        "root_filename": "hist_S2_H100_E3000.root"
+      },
+      {
+        "job_name": "S6_H100_E5000keV",
+        "sample": "S6",
+        "energy_kev": 5000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E5000.mac",
+        "csv_filename": "S6_H100_E5000keV.csv",
+        "root_filename": "hist_S6_H100_E5000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S3_H100_E15keV",
+        "sample": "S3",
+        "energy_kev": 15,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E15.mac",
+        "csv_filename": "S3_H100_E15keV.csv",
+        "root_filename": "hist_S3_H100_E15.root"
+      },
+      {
+        "job_name": "S7_H100_E30keV",
+        "sample": "S7",
+        "energy_kev": 30,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E30.mac",
+        "csv_filename": "S7_H100_E30keV.csv",
+        "root_filename": "hist_S7_H100_E30.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E600keV",
+        "sample": "S3",
+        "energy_kev": 600,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E600.mac",
+        "csv_filename": "S3_H100_E600keV.csv",
+        "root_filename": "hist_S3_H100_E600.root"
+      },
+      {
+        "job_name": "S7_H100_E1000keV",
+        "sample": "S7",
+        "energy_kev": 1000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E1000.mac",
+        "csv_filename": "S7_H100_E1000keV.csv",
+        "root_filename": "hist_S7_H100_E1000.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E10000keV",
+        "sample": "S3",
+        "energy_kev": 10000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E10000.mac",
+        "csv_filename": "S3_H100_E10000keV.csv",
+        "root_filename": "hist_S3_H100_E10000.root"
+      },
+      {
+        "job_name": "S7_H100_E12000keV",
+        "sample": "S7",
+        "energy_kev": 12000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E12000.mac",
+        "csv_filename": "S7_H100_E12000keV.csv",
+        "root_filename": "hist_S7_H100_E12000.root"
+      }
+    ]
+  },
+  "laolaolaoma09": {
+    "1": [
+      {
+        "job_name": "S0_H100_E80keV",
+        "sample": "S0",
+        "energy_kev": 80,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E80.mac",
+        "csv_filename": "S0_H100_E80keV.csv",
+        "root_filename": "hist_S0_H100_E80.root"
+      },
+      {
+        "job_name": "S4_H100_E150keV",
+        "sample": "S4",
+        "energy_kev": 150,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E150.mac",
+        "csv_filename": "S4_H100_E150keV.csv",
+        "root_filename": "hist_S4_H100_E150.root"
+      },
+      {
+        "job_name": "S8_H100_E300keV",
+        "sample": "S8",
+        "energy_kev": 300,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E300.mac",
+        "csv_filename": "S8_H100_E300keV.csv",
+        "root_filename": "hist_S8_H100_E300.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E3000keV",
+        "sample": "S0",
+        "energy_kev": 3000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E3000.mac",
+        "csv_filename": "S0_H100_E3000keV.csv",
+        "root_filename": "hist_S0_H100_E3000.root"
+      },
+      {
+        "job_name": "S4_H100_E5000keV",
+        "sample": "S4",
+        "energy_kev": 5000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E5000.mac",
+        "csv_filename": "S4_H100_E5000keV.csv",
+        "root_filename": "hist_S4_H100_E5000.root"
+      },
+      {
+        "job_name": "S8_H100_E7000keV",
+        "sample": "S8",
+        "energy_kev": 7000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E7000.mac",
+        "csv_filename": "S8_H100_E7000keV.csv",
+        "root_filename": "hist_S8_H100_E7000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S1_H100_E15keV",
+        "sample": "S1",
+        "energy_kev": 15,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E15.mac",
+        "csv_filename": "S1_H100_E15keV.csv",
+        "root_filename": "hist_S1_H100_E15.root"
+      },
+      {
+        "job_name": "S5_H100_E30keV",
+        "sample": "S5",
+        "energy_kev": 30,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E30.mac",
+        "csv_filename": "S5_H100_E30keV.csv",
+        "root_filename": "hist_S5_H100_E30.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E600keV",
+        "sample": "S1",
+        "energy_kev": 600,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E600.mac",
+        "csv_filename": "S1_H100_E600keV.csv",
+        "root_filename": "hist_S1_H100_E600.root"
+      },
+      {
+        "job_name": "S5_H100_E1000keV",
+        "sample": "S5",
+        "energy_kev": 1000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E1000.mac",
+        "csv_filename": "S5_H100_E1000keV.csv",
+        "root_filename": "hist_S5_H100_E1000.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E10000keV",
+        "sample": "S1",
+        "energy_kev": 10000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E10000.mac",
+        "csv_filename": "S1_H100_E10000keV.csv",
+        "root_filename": "hist_S1_H100_E10000.root"
+      },
+      {
+        "job_name": "S5_H100_E12000keV",
+        "sample": "S5",
+        "energy_kev": 12000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E12000.mac",
+        "csv_filename": "S5_H100_E12000keV.csv",
+        "root_filename": "hist_S5_H100_E12000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E100keV",
+        "sample": "S2",
+        "energy_kev": 100,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E100.mac",
+        "csv_filename": "S2_H100_E100keV.csv",
+        "root_filename": "hist_S2_H100_E100.root"
+      },
+      {
+        "job_name": "S6_H100_E200keV",
+        "sample": "S6",
+        "energy_kev": 200,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E200.mac",
+        "csv_filename": "S6_H100_E200keV.csv",
+        "root_filename": "hist_S6_H100_E200.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E4000keV",
+        "sample": "S2",
+        "energy_kev": 4000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E4000.mac",
+        "csv_filename": "S2_H100_E4000keV.csv",
+        "root_filename": "hist_S2_H100_E4000.root"
+      },
+      {
+        "job_name": "S6_H100_E6000keV",
+        "sample": "S6",
+        "energy_kev": 6000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E6000.mac",
+        "csv_filename": "S6_H100_E6000keV.csv",
+        "root_filename": "hist_S6_H100_E6000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S3_H100_E20keV",
+        "sample": "S3",
+        "energy_kev": 20,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E20.mac",
+        "csv_filename": "S3_H100_E20keV.csv",
+        "root_filename": "hist_S3_H100_E20.root"
+      },
+      {
+        "job_name": "S7_H100_E40keV",
+        "sample": "S7",
+        "energy_kev": 40,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E40.mac",
+        "csv_filename": "S7_H100_E40keV.csv",
+        "root_filename": "hist_S7_H100_E40.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E800keV",
+        "sample": "S3",
+        "energy_kev": 800,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E800.mac",
+        "csv_filename": "S3_H100_E800keV.csv",
+        "root_filename": "hist_S3_H100_E800.root"
+      },
+      {
+        "job_name": "S7_H100_E1250keV",
+        "sample": "S7",
+        "energy_kev": 1250,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E1250.mac",
+        "csv_filename": "S7_H100_E1250keV.csv",
+        "root_filename": "hist_S7_H100_E1250.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E11000keV",
+        "sample": "S3",
+        "energy_kev": 11000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E11000.mac",
+        "csv_filename": "S3_H100_E11000keV.csv",
+        "root_filename": "hist_S3_H100_E11000.root"
+      },
+      {
+        "job_name": "S7_H100_E13000keV",
+        "sample": "S7",
+        "energy_kev": 13000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E13000.mac",
+        "csv_filename": "S7_H100_E13000keV.csv",
+        "root_filename": "hist_S7_H100_E13000.root"
+      }
+    ]
+  },
+  "Bethwl": {
+    "1": [
+      {
+        "job_name": "S0_H100_E100keV",
+        "sample": "S0",
+        "energy_kev": 100,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E100.mac",
+        "csv_filename": "S0_H100_E100keV.csv",
+        "root_filename": "hist_S0_H100_E100.root"
+      },
+      {
+        "job_name": "S4_H100_E200keV",
+        "sample": "S4",
+        "energy_kev": 200,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E200.mac",
+        "csv_filename": "S4_H100_E200keV.csv",
+        "root_filename": "hist_S4_H100_E200.root"
+      },
+      {
+        "job_name": "S8_H100_E400keV",
+        "sample": "S8",
+        "energy_kev": 400,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E400.mac",
+        "csv_filename": "S8_H100_E400keV.csv",
+        "root_filename": "hist_S8_H100_E400.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E4000keV",
+        "sample": "S0",
+        "energy_kev": 4000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E4000.mac",
+        "csv_filename": "S0_H100_E4000keV.csv",
+        "root_filename": "hist_S0_H100_E4000.root"
+      },
+      {
+        "job_name": "S4_H100_E6000keV",
+        "sample": "S4",
+        "energy_kev": 6000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E6000.mac",
+        "csv_filename": "S4_H100_E6000keV.csv",
+        "root_filename": "hist_S4_H100_E6000.root"
+      },
+      {
+        "job_name": "S8_H100_E8000keV",
+        "sample": "S8",
+        "energy_kev": 8000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E8000.mac",
+        "csv_filename": "S8_H100_E8000keV.csv",
+        "root_filename": "hist_S8_H100_E8000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S1_H100_E20keV",
+        "sample": "S1",
+        "energy_kev": 20,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E20.mac",
+        "csv_filename": "S1_H100_E20keV.csv",
+        "root_filename": "hist_S1_H100_E20.root"
+      },
+      {
+        "job_name": "S5_H100_E40keV",
+        "sample": "S5",
+        "energy_kev": 40,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E40.mac",
+        "csv_filename": "S5_H100_E40keV.csv",
+        "root_filename": "hist_S5_H100_E40.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E800keV",
+        "sample": "S1",
+        "energy_kev": 800,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E800.mac",
+        "csv_filename": "S1_H100_E800keV.csv",
+        "root_filename": "hist_S1_H100_E800.root"
+      },
+      {
+        "job_name": "S5_H100_E1250keV",
+        "sample": "S5",
+        "energy_kev": 1250,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E1250.mac",
+        "csv_filename": "S5_H100_E1250keV.csv",
+        "root_filename": "hist_S5_H100_E1250.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E11000keV",
+        "sample": "S1",
+        "energy_kev": 11000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E11000.mac",
+        "csv_filename": "S1_H100_E11000keV.csv",
+        "root_filename": "hist_S1_H100_E11000.root"
+      },
+      {
+        "job_name": "S5_H100_E13000keV",
+        "sample": "S5",
+        "energy_kev": 13000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E13000.mac",
+        "csv_filename": "S5_H100_E13000keV.csv",
+        "root_filename": "hist_S5_H100_E13000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E150keV",
+        "sample": "S2",
+        "energy_kev": 150,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E150.mac",
+        "csv_filename": "S2_H100_E150keV.csv",
+        "root_filename": "hist_S2_H100_E150.root"
+      },
+      {
+        "job_name": "S6_H100_E300keV",
+        "sample": "S6",
+        "energy_kev": 300,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E300.mac",
+        "csv_filename": "S6_H100_E300keV.csv",
+        "root_filename": "hist_S6_H100_E300.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E5000keV",
+        "sample": "S2",
+        "energy_kev": 5000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E5000.mac",
+        "csv_filename": "S2_H100_E5000keV.csv",
+        "root_filename": "hist_S2_H100_E5000.root"
+      },
+      {
+        "job_name": "S6_H100_E7000keV",
+        "sample": "S6",
+        "energy_kev": 7000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E7000.mac",
+        "csv_filename": "S6_H100_E7000keV.csv",
+        "root_filename": "hist_S6_H100_E7000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S3_H100_E30keV",
+        "sample": "S3",
+        "energy_kev": 30,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E30.mac",
+        "csv_filename": "S3_H100_E30keV.csv",
+        "root_filename": "hist_S3_H100_E30.root"
+      },
+      {
+        "job_name": "S7_H100_E50keV",
+        "sample": "S7",
+        "energy_kev": 50,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E50.mac",
+        "csv_filename": "S7_H100_E50keV.csv",
+        "root_filename": "hist_S7_H100_E50.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E1000keV",
+        "sample": "S3",
+        "energy_kev": 1000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E1000.mac",
+        "csv_filename": "S3_H100_E1000keV.csv",
+        "root_filename": "hist_S3_H100_E1000.root"
+      },
+      {
+        "job_name": "S7_H100_E1500keV",
+        "sample": "S7",
+        "energy_kev": 1500,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E1500.mac",
+        "csv_filename": "S7_H100_E1500keV.csv",
+        "root_filename": "hist_S7_H100_E1500.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E12000keV",
+        "sample": "S3",
+        "energy_kev": 12000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E12000.mac",
+        "csv_filename": "S3_H100_E12000keV.csv",
+        "root_filename": "hist_S3_H100_E12000.root"
+      },
+      {
+        "job_name": "S7_H100_E14000keV",
+        "sample": "S7",
+        "energy_kev": 14000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E14000.mac",
+        "csv_filename": "S7_H100_E14000keV.csv",
+        "root_filename": "hist_S7_H100_E14000.root"
+      }
+    ]
+  },
+  "coredaohaojack": {
+    "1": [
+      {
+        "job_name": "S0_H100_E150keV",
+        "sample": "S0",
+        "energy_kev": 150,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E150.mac",
+        "csv_filename": "S0_H100_E150keV.csv",
+        "root_filename": "hist_S0_H100_E150.root"
+      },
+      {
+        "job_name": "S4_H100_E300keV",
+        "sample": "S4",
+        "energy_kev": 300,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E300.mac",
+        "csv_filename": "S4_H100_E300keV.csv",
+        "root_filename": "hist_S4_H100_E300.root"
+      },
+      {
+        "job_name": "S8_H100_E500keV",
+        "sample": "S8",
+        "energy_kev": 500,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E500.mac",
+        "csv_filename": "S8_H100_E500keV.csv",
+        "root_filename": "hist_S8_H100_E500.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E5000keV",
+        "sample": "S0",
+        "energy_kev": 5000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E5000.mac",
+        "csv_filename": "S0_H100_E5000keV.csv",
+        "root_filename": "hist_S0_H100_E5000.root"
+      },
+      {
+        "job_name": "S4_H100_E7000keV",
+        "sample": "S4",
+        "energy_kev": 7000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E7000.mac",
+        "csv_filename": "S4_H100_E7000keV.csv",
+        "root_filename": "hist_S4_H100_E7000.root"
+      },
+      {
+        "job_name": "S8_H100_E9000keV",
+        "sample": "S8",
+        "energy_kev": 9000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E9000.mac",
+        "csv_filename": "S8_H100_E9000keV.csv",
+        "root_filename": "hist_S8_H100_E9000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S1_H100_E30keV",
+        "sample": "S1",
+        "energy_kev": 30,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E30.mac",
+        "csv_filename": "S1_H100_E30keV.csv",
+        "root_filename": "hist_S1_H100_E30.root"
+      },
+      {
+        "job_name": "S5_H100_E50keV",
+        "sample": "S5",
+        "energy_kev": 50,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E50.mac",
+        "csv_filename": "S5_H100_E50keV.csv",
+        "root_filename": "hist_S5_H100_E50.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E1000keV",
+        "sample": "S1",
+        "energy_kev": 1000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E1000.mac",
+        "csv_filename": "S1_H100_E1000keV.csv",
+        "root_filename": "hist_S1_H100_E1000.root"
+      },
+      {
+        "job_name": "S5_H100_E1500keV",
+        "sample": "S5",
+        "energy_kev": 1500,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E1500.mac",
+        "csv_filename": "S5_H100_E1500keV.csv",
+        "root_filename": "hist_S5_H100_E1500.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E12000keV",
+        "sample": "S1",
+        "energy_kev": 12000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E12000.mac",
+        "csv_filename": "S1_H100_E12000keV.csv",
+        "root_filename": "hist_S1_H100_E12000.root"
+      },
+      {
+        "job_name": "S5_H100_E14000keV",
+        "sample": "S5",
+        "energy_kev": 14000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E14000.mac",
+        "csv_filename": "S5_H100_E14000keV.csv",
+        "root_filename": "hist_S5_H100_E14000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E200keV",
+        "sample": "S2",
+        "energy_kev": 200,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E200.mac",
+        "csv_filename": "S2_H100_E200keV.csv",
+        "root_filename": "hist_S2_H100_E200.root"
+      },
+      {
+        "job_name": "S6_H100_E400keV",
+        "sample": "S6",
+        "energy_kev": 400,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E400.mac",
+        "csv_filename": "S6_H100_E400keV.csv",
+        "root_filename": "hist_S6_H100_E400.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E6000keV",
+        "sample": "S2",
+        "energy_kev": 6000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E6000.mac",
+        "csv_filename": "S2_H100_E6000keV.csv",
+        "root_filename": "hist_S2_H100_E6000.root"
+      },
+      {
+        "job_name": "S6_H100_E8000keV",
+        "sample": "S6",
+        "energy_kev": 8000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E8000.mac",
+        "csv_filename": "S6_H100_E8000keV.csv",
+        "root_filename": "hist_S6_H100_E8000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S3_H100_E40keV",
+        "sample": "S3",
+        "energy_kev": 40,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E40.mac",
+        "csv_filename": "S3_H100_E40keV.csv",
+        "root_filename": "hist_S3_H100_E40.root"
+      },
+      {
+        "job_name": "S7_H100_E60keV",
+        "sample": "S7",
+        "energy_kev": 60,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E60.mac",
+        "csv_filename": "S7_H100_E60keV.csv",
+        "root_filename": "hist_S7_H100_E60.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E1250keV",
+        "sample": "S3",
+        "energy_kev": 1250,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E1250.mac",
+        "csv_filename": "S3_H100_E1250keV.csv",
+        "root_filename": "hist_S3_H100_E1250.root"
+      },
+      {
+        "job_name": "S7_H100_E2000keV",
+        "sample": "S7",
+        "energy_kev": 2000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E2000.mac",
+        "csv_filename": "S7_H100_E2000keV.csv",
+        "root_filename": "hist_S7_H100_E2000.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E13000keV",
+        "sample": "S3",
+        "energy_kev": 13000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E13000.mac",
+        "csv_filename": "S3_H100_E13000keV.csv",
+        "root_filename": "hist_S3_H100_E13000.root"
+      },
+      {
+        "job_name": "S7_H100_E15000keV",
+        "sample": "S7",
+        "energy_kev": 15000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E15000.mac",
+        "csv_filename": "S7_H100_E15000keV.csv",
+        "root_filename": "hist_S7_H100_E15000.root"
+      }
+    ]
+  },
+  "htvnhe": {
+    "1": [
+      {
+        "job_name": "S0_H100_E200keV",
+        "sample": "S0",
+        "energy_kev": 200,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E200.mac",
+        "csv_filename": "S0_H100_E200keV.csv",
+        "root_filename": "hist_S0_H100_E200.root"
+      },
+      {
+        "job_name": "S4_H100_E400keV",
+        "sample": "S4",
+        "energy_kev": 400,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E400.mac",
+        "csv_filename": "S4_H100_E400keV.csv",
+        "root_filename": "hist_S4_H100_E400.root"
+      },
+      {
+        "job_name": "S8_H100_E600keV",
+        "sample": "S8",
+        "energy_kev": 600,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E600.mac",
+        "csv_filename": "S8_H100_E600keV.csv",
+        "root_filename": "hist_S8_H100_E600.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E6000keV",
+        "sample": "S0",
+        "energy_kev": 6000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E6000.mac",
+        "csv_filename": "S0_H100_E6000keV.csv",
+        "root_filename": "hist_S0_H100_E6000.root"
+      },
+      {
+        "job_name": "S4_H100_E8000keV",
+        "sample": "S4",
+        "energy_kev": 8000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E8000.mac",
+        "csv_filename": "S4_H100_E8000keV.csv",
+        "root_filename": "hist_S4_H100_E8000.root"
+      },
+      {
+        "job_name": "S8_H100_E10000keV",
+        "sample": "S8",
+        "energy_kev": 10000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E10000.mac",
+        "csv_filename": "S8_H100_E10000keV.csv",
+        "root_filename": "hist_S8_H100_E10000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S1_H100_E40keV",
+        "sample": "S1",
+        "energy_kev": 40,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E40.mac",
+        "csv_filename": "S1_H100_E40keV.csv",
+        "root_filename": "hist_S1_H100_E40.root"
+      },
+      {
+        "job_name": "S5_H100_E60keV",
+        "sample": "S5",
+        "energy_kev": 60,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E60.mac",
+        "csv_filename": "S5_H100_E60keV.csv",
+        "root_filename": "hist_S5_H100_E60.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E1250keV",
+        "sample": "S1",
+        "energy_kev": 1250,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E1250.mac",
+        "csv_filename": "S1_H100_E1250keV.csv",
+        "root_filename": "hist_S1_H100_E1250.root"
+      },
+      {
+        "job_name": "S5_H100_E2000keV",
+        "sample": "S5",
+        "energy_kev": 2000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E2000.mac",
+        "csv_filename": "S5_H100_E2000keV.csv",
+        "root_filename": "hist_S5_H100_E2000.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E13000keV",
+        "sample": "S1",
+        "energy_kev": 13000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E13000.mac",
+        "csv_filename": "S1_H100_E13000keV.csv",
+        "root_filename": "hist_S1_H100_E13000.root"
+      },
+      {
+        "job_name": "S5_H100_E15000keV",
+        "sample": "S5",
+        "energy_kev": 15000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E15000.mac",
+        "csv_filename": "S5_H100_E15000keV.csv",
+        "root_filename": "hist_S5_H100_E15000.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E300keV",
+        "sample": "S2",
+        "energy_kev": 300,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E300.mac",
+        "csv_filename": "S2_H100_E300keV.csv",
+        "root_filename": "hist_S2_H100_E300.root"
+      },
+      {
+        "job_name": "S6_H100_E500keV",
+        "sample": "S6",
+        "energy_kev": 500,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E500.mac",
+        "csv_filename": "S6_H100_E500keV.csv",
+        "root_filename": "hist_S6_H100_E500.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E7000keV",
+        "sample": "S2",
+        "energy_kev": 7000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E7000.mac",
+        "csv_filename": "S2_H100_E7000keV.csv",
+        "root_filename": "hist_S2_H100_E7000.root"
+      },
+      {
+        "job_name": "S6_H100_E9000keV",
+        "sample": "S6",
+        "energy_kev": 9000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E9000.mac",
+        "csv_filename": "S6_H100_E9000keV.csv",
+        "root_filename": "hist_S6_H100_E9000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S3_H100_E50keV",
+        "sample": "S3",
+        "energy_kev": 50,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E50.mac",
+        "csv_filename": "S3_H100_E50keV.csv",
+        "root_filename": "hist_S3_H100_E50.root"
+      },
+      {
+        "job_name": "S7_H100_E80keV",
+        "sample": "S7",
+        "energy_kev": 80,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E80.mac",
+        "csv_filename": "S7_H100_E80keV.csv",
+        "root_filename": "hist_S7_H100_E80.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E1500keV",
+        "sample": "S3",
+        "energy_kev": 1500,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E1500.mac",
+        "csv_filename": "S3_H100_E1500keV.csv",
+        "root_filename": "hist_S3_H100_E1500.root"
+      },
+      {
+        "job_name": "S7_H100_E3000keV",
+        "sample": "S7",
+        "energy_kev": 3000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E3000.mac",
+        "csv_filename": "S7_H100_E3000keV.csv",
+        "root_filename": "hist_S7_H100_E3000.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E14000keV",
+        "sample": "S3",
+        "energy_kev": 14000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E14000.mac",
+        "csv_filename": "S3_H100_E14000keV.csv",
+        "root_filename": "hist_S3_H100_E14000.root"
+      },
+      {
+        "job_name": "S8_H100_E15keV",
+        "sample": "S8",
+        "energy_kev": 15,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E15.mac",
+        "csv_filename": "S8_H100_E15keV.csv",
+        "root_filename": "hist_S8_H100_E15.root"
+      }
+    ]
+  },
+  "haohue27": {
+    "1": [
+      {
+        "job_name": "S0_H100_E300keV",
+        "sample": "S0",
+        "energy_kev": 300,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E300.mac",
+        "csv_filename": "S0_H100_E300keV.csv",
+        "root_filename": "hist_S0_H100_E300.root"
+      },
+      {
+        "job_name": "S4_H100_E500keV",
+        "sample": "S4",
+        "energy_kev": 500,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E500.mac",
+        "csv_filename": "S4_H100_E500keV.csv",
+        "root_filename": "hist_S4_H100_E500.root"
+      },
+      {
+        "job_name": "S8_H100_E800keV",
+        "sample": "S8",
+        "energy_kev": 800,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E800.mac",
+        "csv_filename": "S8_H100_E800keV.csv",
+        "root_filename": "hist_S8_H100_E800.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E7000keV",
+        "sample": "S0",
+        "energy_kev": 7000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E7000.mac",
+        "csv_filename": "S0_H100_E7000keV.csv",
+        "root_filename": "hist_S0_H100_E7000.root"
+      },
+      {
+        "job_name": "S4_H100_E9000keV",
+        "sample": "S4",
+        "energy_kev": 9000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E9000.mac",
+        "csv_filename": "S4_H100_E9000keV.csv",
+        "root_filename": "hist_S4_H100_E9000.root"
+      },
+      {
+        "job_name": "S8_H100_E11000keV",
+        "sample": "S8",
+        "energy_kev": 11000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E11000.mac",
+        "csv_filename": "S8_H100_E11000keV.csv",
+        "root_filename": "hist_S8_H100_E11000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S1_H100_E50keV",
+        "sample": "S1",
+        "energy_kev": 50,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E50.mac",
+        "csv_filename": "S1_H100_E50keV.csv",
+        "root_filename": "hist_S1_H100_E50.root"
+      },
+      {
+        "job_name": "S5_H100_E80keV",
+        "sample": "S5",
+        "energy_kev": 80,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E80.mac",
+        "csv_filename": "S5_H100_E80keV.csv",
+        "root_filename": "hist_S5_H100_E80.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E1500keV",
+        "sample": "S1",
+        "energy_kev": 1500,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E1500.mac",
+        "csv_filename": "S1_H100_E1500keV.csv",
+        "root_filename": "hist_S1_H100_E1500.root"
+      },
+      {
+        "job_name": "S5_H100_E3000keV",
+        "sample": "S5",
+        "energy_kev": 3000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E3000.mac",
+        "csv_filename": "S5_H100_E3000keV.csv",
+        "root_filename": "hist_S5_H100_E3000.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E14000keV",
+        "sample": "S1",
+        "energy_kev": 14000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E14000.mac",
+        "csv_filename": "S1_H100_E14000keV.csv",
+        "root_filename": "hist_S1_H100_E14000.root"
+      },
+      {
+        "job_name": "S6_H100_E15keV",
+        "sample": "S6",
+        "energy_kev": 15,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E15.mac",
+        "csv_filename": "S6_H100_E15keV.csv",
+        "root_filename": "hist_S6_H100_E15.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E400keV",
+        "sample": "S2",
+        "energy_kev": 400,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E400.mac",
+        "csv_filename": "S2_H100_E400keV.csv",
+        "root_filename": "hist_S2_H100_E400.root"
+      },
+      {
+        "job_name": "S6_H100_E600keV",
+        "sample": "S6",
+        "energy_kev": 600,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E600.mac",
+        "csv_filename": "S6_H100_E600keV.csv",
+        "root_filename": "hist_S6_H100_E600.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E8000keV",
+        "sample": "S2",
+        "energy_kev": 8000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E8000.mac",
+        "csv_filename": "S2_H100_E8000keV.csv",
+        "root_filename": "hist_S2_H100_E8000.root"
+      },
+      {
+        "job_name": "S6_H100_E10000keV",
+        "sample": "S6",
+        "energy_kev": 10000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E10000.mac",
+        "csv_filename": "S6_H100_E10000keV.csv",
+        "root_filename": "hist_S6_H100_E10000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S3_H100_E60keV",
+        "sample": "S3",
+        "energy_kev": 60,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E60.mac",
+        "csv_filename": "S3_H100_E60keV.csv",
+        "root_filename": "hist_S3_H100_E60.root"
+      },
+      {
+        "job_name": "S7_H100_E100keV",
+        "sample": "S7",
+        "energy_kev": 100,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E100.mac",
+        "csv_filename": "S7_H100_E100keV.csv",
+        "root_filename": "hist_S7_H100_E100.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E2000keV",
+        "sample": "S3",
+        "energy_kev": 2000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E2000.mac",
+        "csv_filename": "S3_H100_E2000keV.csv",
+        "root_filename": "hist_S3_H100_E2000.root"
+      },
+      {
+        "job_name": "S7_H100_E4000keV",
+        "sample": "S7",
+        "energy_kev": 4000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E4000.mac",
+        "csv_filename": "S7_H100_E4000keV.csv",
+        "root_filename": "hist_S7_H100_E4000.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_H100_E15000keV",
+        "sample": "S3",
+        "energy_kev": 15000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E15000.mac",
+        "csv_filename": "S3_H100_E15000keV.csv",
+        "root_filename": "hist_S3_H100_E15000.root"
+      },
+      {
+        "job_name": "S8_H100_E20keV",
+        "sample": "S8",
+        "energy_kev": 20,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E20.mac",
+        "csv_filename": "S8_H100_E20keV.csv",
+        "root_filename": "hist_S8_H100_E20.root"
+      }
+    ]
+  },
+  "fewhourtorelax": {
+    "1": [
+      {
+        "job_name": "S0_H100_E400keV",
+        "sample": "S0",
+        "energy_kev": 400,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E400.mac",
+        "csv_filename": "S0_H100_E400keV.csv",
+        "root_filename": "hist_S0_H100_E400.root"
+      },
+      {
+        "job_name": "S4_H100_E600keV",
+        "sample": "S4",
+        "energy_kev": 600,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E600.mac",
+        "csv_filename": "S4_H100_E600keV.csv",
+        "root_filename": "hist_S4_H100_E600.root"
+      },
+      {
+        "job_name": "S8_H100_E1000keV",
+        "sample": "S8",
+        "energy_kev": 1000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E1000.mac",
+        "csv_filename": "S8_H100_E1000keV.csv",
+        "root_filename": "hist_S8_H100_E1000.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E8000keV",
+        "sample": "S0",
+        "energy_kev": 8000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E8000.mac",
+        "csv_filename": "S0_H100_E8000keV.csv",
+        "root_filename": "hist_S0_H100_E8000.root"
+      },
+      {
+        "job_name": "S4_H100_E10000keV",
+        "sample": "S4",
+        "energy_kev": 10000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E10000.mac",
+        "csv_filename": "S4_H100_E10000keV.csv",
+        "root_filename": "hist_S4_H100_E10000.root"
+      },
+      {
+        "job_name": "S8_H100_E12000keV",
+        "sample": "S8",
+        "energy_kev": 12000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E12000.mac",
+        "csv_filename": "S8_H100_E12000keV.csv",
+        "root_filename": "hist_S8_H100_E12000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S1_H100_E60keV",
+        "sample": "S1",
+        "energy_kev": 60,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E60.mac",
+        "csv_filename": "S1_H100_E60keV.csv",
+        "root_filename": "hist_S1_H100_E60.root"
+      },
+      {
+        "job_name": "S5_H100_E100keV",
+        "sample": "S5",
+        "energy_kev": 100,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E100.mac",
+        "csv_filename": "S5_H100_E100keV.csv",
+        "root_filename": "hist_S5_H100_E100.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E2000keV",
+        "sample": "S1",
+        "energy_kev": 2000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E2000.mac",
+        "csv_filename": "S1_H100_E2000keV.csv",
+        "root_filename": "hist_S1_H100_E2000.root"
+      },
+      {
+        "job_name": "S5_H100_E4000keV",
+        "sample": "S5",
+        "energy_kev": 4000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E4000.mac",
+        "csv_filename": "S5_H100_E4000keV.csv",
+        "root_filename": "hist_S5_H100_E4000.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_H100_E15000keV",
+        "sample": "S1",
+        "energy_kev": 15000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E15000.mac",
+        "csv_filename": "S1_H100_E15000keV.csv",
+        "root_filename": "hist_S1_H100_E15000.root"
+      },
+      {
+        "job_name": "S6_H100_E20keV",
+        "sample": "S6",
+        "energy_kev": 20,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E20.mac",
+        "csv_filename": "S6_H100_E20keV.csv",
+        "root_filename": "hist_S6_H100_E20.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E500keV",
+        "sample": "S2",
+        "energy_kev": 500,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E500.mac",
+        "csv_filename": "S2_H100_E500keV.csv",
+        "root_filename": "hist_S2_H100_E500.root"
+      },
+      {
+        "job_name": "S6_H100_E800keV",
+        "sample": "S6",
+        "energy_kev": 800,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E800.mac",
+        "csv_filename": "S6_H100_E800keV.csv",
+        "root_filename": "hist_S6_H100_E800.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E9000keV",
+        "sample": "S2",
+        "energy_kev": 9000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E9000.mac",
+        "csv_filename": "S2_H100_E9000keV.csv",
+        "root_filename": "hist_S2_H100_E9000.root"
+      },
+      {
+        "job_name": "S6_H100_E11000keV",
+        "sample": "S6",
+        "energy_kev": 11000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E11000.mac",
+        "csv_filename": "S6_H100_E11000keV.csv",
+        "root_filename": "hist_S6_H100_E11000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S3_H100_E80keV",
+        "sample": "S3",
+        "energy_kev": 80,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E80.mac",
+        "csv_filename": "S3_H100_E80keV.csv",
+        "root_filename": "hist_S3_H100_E80.root"
+      },
+      {
+        "job_name": "S7_H100_E150keV",
+        "sample": "S7",
+        "energy_kev": 150,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E150.mac",
+        "csv_filename": "S7_H100_E150keV.csv",
+        "root_filename": "hist_S7_H100_E150.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E3000keV",
+        "sample": "S3",
+        "energy_kev": 3000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E3000.mac",
+        "csv_filename": "S3_H100_E3000keV.csv",
+        "root_filename": "hist_S3_H100_E3000.root"
+      },
+      {
+        "job_name": "S7_H100_E5000keV",
+        "sample": "S7",
+        "energy_kev": 5000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E5000.mac",
+        "csv_filename": "S7_H100_E5000keV.csv",
+        "root_filename": "hist_S7_H100_E5000.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S4_H100_E15keV",
+        "sample": "S4",
+        "energy_kev": 15,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E15.mac",
+        "csv_filename": "S4_H100_E15keV.csv",
+        "root_filename": "hist_S4_H100_E15.root"
+      },
+      {
+        "job_name": "S8_H100_E30keV",
+        "sample": "S8",
+        "energy_kev": 30,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E30.mac",
+        "csv_filename": "S8_H100_E30keV.csv",
+        "root_filename": "hist_S8_H100_E30.root"
+      }
+    ]
+  },
+  "zotactothesun": {
+    "1": [
+      {
+        "job_name": "S0_H100_E500keV",
+        "sample": "S0",
+        "energy_kev": 500,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E500.mac",
+        "csv_filename": "S0_H100_E500keV.csv",
+        "root_filename": "hist_S0_H100_E500.root"
+      },
+      {
+        "job_name": "S4_H100_E800keV",
+        "sample": "S4",
+        "energy_kev": 800,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E800.mac",
+        "csv_filename": "S4_H100_E800keV.csv",
+        "root_filename": "hist_S4_H100_E800.root"
+      },
+      {
+        "job_name": "S8_H100_E1250keV",
+        "sample": "S8",
+        "energy_kev": 1250,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E1250.mac",
+        "csv_filename": "S8_H100_E1250keV.csv",
+        "root_filename": "hist_S8_H100_E1250.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_H100_E9000keV",
+        "sample": "S0",
+        "energy_kev": 9000,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_H100_E9000.mac",
+        "csv_filename": "S0_H100_E9000keV.csv",
+        "root_filename": "hist_S0_H100_E9000.root"
+      },
+      {
+        "job_name": "S4_H100_E11000keV",
+        "sample": "S4",
+        "energy_kev": 11000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E11000.mac",
+        "csv_filename": "S4_H100_E11000keV.csv",
+        "root_filename": "hist_S4_H100_E11000.root"
+      },
+      {
+        "job_name": "S8_H100_E13000keV",
+        "sample": "S8",
+        "energy_kev": 13000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E13000.mac",
+        "csv_filename": "S8_H100_E13000keV.csv",
+        "root_filename": "hist_S8_H100_E13000.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S1_H100_E80keV",
+        "sample": "S1",
+        "energy_kev": 80,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E80.mac",
+        "csv_filename": "S1_H100_E80keV.csv",
+        "root_filename": "hist_S1_H100_E80.root"
+      },
+      {
+        "job_name": "S5_H100_E150keV",
+        "sample": "S5",
+        "energy_kev": 150,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E150.mac",
+        "csv_filename": "S5_H100_E150keV.csv",
+        "root_filename": "hist_S5_H100_E150.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_H100_E3000keV",
+        "sample": "S1",
+        "energy_kev": 3000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S1_H100_E3000.mac",
+        "csv_filename": "S1_H100_E3000keV.csv",
+        "root_filename": "hist_S1_H100_E3000.root"
+      },
+      {
+        "job_name": "S5_H100_E5000keV",
+        "sample": "S5",
+        "energy_kev": 5000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S5_H100_E5000.mac",
+        "csv_filename": "S5_H100_E5000keV.csv",
+        "root_filename": "hist_S5_H100_E5000.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S2_H100_E15keV",
+        "sample": "S2",
+        "energy_kev": 15,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E15.mac",
+        "csv_filename": "S2_H100_E15keV.csv",
+        "root_filename": "hist_S2_H100_E15.root"
+      },
+      {
+        "job_name": "S6_H100_E30keV",
+        "sample": "S6",
+        "energy_kev": 30,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E30.mac",
+        "csv_filename": "S6_H100_E30keV.csv",
+        "root_filename": "hist_S6_H100_E30.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_H100_E600keV",
+        "sample": "S2",
+        "energy_kev": 600,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E600.mac",
+        "csv_filename": "S2_H100_E600keV.csv",
+        "root_filename": "hist_S2_H100_E600.root"
+      },
+      {
+        "job_name": "S6_H100_E1000keV",
+        "sample": "S6",
+        "energy_kev": 1000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E1000.mac",
+        "csv_filename": "S6_H100_E1000keV.csv",
+        "root_filename": "hist_S6_H100_E1000.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_H100_E10000keV",
+        "sample": "S2",
+        "energy_kev": 10000,
+        "thickness_cm": 0.2,
+        "macro_file": "run_S2_H100_E10000.mac",
+        "csv_filename": "S2_H100_E10000keV.csv",
+        "root_filename": "hist_S2_H100_E10000.root"
+      },
+      {
+        "job_name": "S6_H100_E12000keV",
+        "sample": "S6",
+        "energy_kev": 12000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S6_H100_E12000.mac",
+        "csv_filename": "S6_H100_E12000keV.csv",
+        "root_filename": "hist_S6_H100_E12000.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S3_H100_E100keV",
+        "sample": "S3",
+        "energy_kev": 100,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E100.mac",
+        "csv_filename": "S3_H100_E100keV.csv",
+        "root_filename": "hist_S3_H100_E100.root"
+      },
+      {
+        "job_name": "S7_H100_E200keV",
+        "sample": "S7",
+        "energy_kev": 200,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E200.mac",
+        "csv_filename": "S7_H100_E200keV.csv",
+        "root_filename": "hist_S7_H100_E200.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S3_H100_E4000keV",
+        "sample": "S3",
+        "energy_kev": 4000,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S3_H100_E4000.mac",
+        "csv_filename": "S3_H100_E4000keV.csv",
+        "root_filename": "hist_S3_H100_E4000.root"
+      },
+      {
+        "job_name": "S7_H100_E6000keV",
+        "sample": "S7",
+        "energy_kev": 6000,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S7_H100_E6000.mac",
+        "csv_filename": "S7_H100_E6000keV.csv",
+        "root_filename": "hist_S7_H100_E6000.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S4_H100_E20keV",
+        "sample": "S4",
+        "energy_kev": 20,
+        "thickness_cm": 0.3,
+        "macro_file": "run_S4_H100_E20.mac",
+        "csv_filename": "S4_H100_E20keV.csv",
+        "root_filename": "hist_S4_H100_E20.root"
+      },
+      {
+        "job_name": "S8_H100_E40keV",
+        "sample": "S8",
+        "energy_kev": 40,
+        "thickness_cm": 0.15,
+        "macro_file": "run_S8_H100_E40.mac",
+        "csv_filename": "S8_H100_E40keV.csv",
+        "root_filename": "hist_S8_H100_E40.root"
+      }
+    ]
+  }
+}
